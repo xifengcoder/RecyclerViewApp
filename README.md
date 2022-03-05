@@ -1,0 +1,2 @@
+# RecyclerView的理解与实践
+将RecyclerView源码单独作为一个module进行编译，便于深入理解其实现原理。
